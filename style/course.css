@@ -32,6 +32,10 @@
     margin-left: .2em;
 }
 
+.hidden.sectionname {
+    visibility: hidden;
+}
+
 .dir-rtl .section_add_menus .urlselect select {
     margin-right: .2em;
     margin-left: 0;
